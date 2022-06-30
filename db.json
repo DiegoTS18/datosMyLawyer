@@ -6,7 +6,7 @@
       "address": "Av. Universitaria 1349",
       "age": 18,
       "email": "Alejandro.Silva@gmail.com",
-      "password": "alejandro123",
+      "password": "123",
       "role": "client"
     },
     {
@@ -15,7 +15,7 @@
       "address": "Av. Universitaria 1349",
       "age": 21,
       "email": "Italo.Silva@gmail.com",
-      "password": "italo123",
+      "password": "123",
       "role": "client"
     },
     {
@@ -24,7 +24,7 @@
       "address": "Av. Universitaria 1349",
       "age": 25,
       "email": "Andres.Reynoso@gmail.com",
-      "password": "andres123",
+      "password": "123",
       "role": "client"
     },
     {
@@ -33,7 +33,7 @@
       "address": "Av. Universitaria 1349",
       "age": 32,
       "email": "Diego.Talledo.Silva@gmail.com",
-      "password": "diego123",
+      "password": "123",
       "role": "client"
     },
     {
@@ -42,7 +42,7 @@
       "address": "Av. Universitaria 1349",
       "age": 22,
       "email": "Juan.Perez@gmail.com",
-      "password": "juan123",
+      "password": "123",
       "role": "client"
     }
   ],
@@ -53,7 +53,7 @@
       "address": "Av. Universitaria 1349",
       "age": 35,
       "email": "Abigail.Ponce@gmail.com",
-      "password": "abigail123",
+      "password": "123",
       "role": "lawyer",
       "points": 3,
       "img": "https://cdn.pixabay.com/photo/2012/04/13/21/07/user-33638_960_720.png"
@@ -64,7 +64,7 @@
       "address": "Av. Universitaria 1349",
       "age": 43,
       "email": "Roberto.Chocano@gmail.com",
-      "password": "roberto123",
+      "password": "123",
       "role": "lawyer",
       "points": 5,
       "img": "https://cdn.pixabay.com/photo/2012/04/13/21/07/user-33638_960_720.png"
@@ -75,7 +75,7 @@
       "address": "Av. Universitaria 1349",
       "age": 41,
       "email": "Jorge.Gutierrez@gmail.com",
-      "password": "jorge123",
+      "password": "123",
       "role": "lawyer",
       "points": 2,
       "img": "https://cdn.pixabay.com/photo/2012/04/13/21/07/user-33638_960_720.png"
@@ -86,7 +86,7 @@
       "address": "Av. Universitaria 1349",
       "age": 45,
       "email": "Javier.Catillo@gmail.com",
-      "password": "javier123",
+      "password": "123",
       "role": "lawyer",
       "points": 4,
       "img": "https://cdn.pixabay.com/photo/2012/04/13/21/07/user-33638_960_720.png"
@@ -97,7 +97,7 @@
       "address": "Av. Universitaria 1349",
       "age": 38,
       "email": "Jose.Catro@gmail.com",
-      "password": "jose123",
+      "password": "123",
       "role": "lawyer",
       "points": 3,
       "img": "https://cdn.pixabay.com/photo/2012/04/13/21/07/user-33638_960_720.png"
